@@ -1,0 +1,9 @@
+.norwayEr {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.02em;
+  font-family: var(--font-roboto);
+  color: var(--studio-darkmode-allwhite-ffffff);
+  text-align: left;
+}

@@ -1,27 +1,10 @@
-# test-project
 
-> A Vue.js project
+  # Card-Diff
 
-## Build Setup
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  

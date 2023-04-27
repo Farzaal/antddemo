@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-baloo-bhai: "Baloo Bhai";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-19xl: 38px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --studio-darkmode-allwhite-ffffff: #fff;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-5xs: 8px;
+  --padding-xs: 12px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
